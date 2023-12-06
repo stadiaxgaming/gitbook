@@ -1,7 +1,7 @@
 # Table of contents
 
 * [StadiaX](README.md)
-* [Summary](summary.md)
+* [Summary](platform-summary.md)
 * [StadiaX Background](stadiax-background/README.md)
   * [The Market](stadiax-background/the-market.md)
   * [Our Position](stadiax-background/our-position.md)
