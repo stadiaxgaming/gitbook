@@ -1,5 +1,5 @@
 ---
-description: Stadia X Web3 Gaming Corporation
+description: A Distributed Web3 Win-to-Earn Gaming Platform
 ---
 
 # Summary

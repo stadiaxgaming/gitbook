@@ -1,5 +1,4 @@
 ---
-description: A Distributed Web3 Win-to-Earn Gaming Platform
 cover: .gitbook/assets/StadiaX.png
 coverY: 0
 layout:
@@ -18,7 +17,7 @@ layout:
     visible: true
 ---
 
-# StadiaX
+# Introducing StadiaX
 
 Get ready for an electrifying journey into the future of gaming with StadiaX, a cutting-edge web3 platform! Designed for the digital age, StadiaX revolutionizes how we play, compete, and enjoy games. Here's the scoop:
 

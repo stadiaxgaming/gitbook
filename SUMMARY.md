@@ -1,6 +1,6 @@
 # Table of contents
 
-* [StadiaX](README.md)
+* [Introducing StadiaX](README.md)
 * [Summary](platform-summary.md)
 * [StadiaX Background](stadiax-background/README.md)
   * [The Market](stadiax-background/the-market.md)
