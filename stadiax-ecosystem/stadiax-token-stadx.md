@@ -1,6 +1,6 @@
 ---
 description: Powerhouse of the Ecosystem
-cover: ../.gitbook/assets/Screenshot 2023-12-07 at 11.32.55 AM.png
+cover: ../.gitbook/assets/Screenshot 2023-12-07 at 12.26.23 PM.png
 coverY: 0
 ---
 
