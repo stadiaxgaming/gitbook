@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Screenshot 2023-12-07 at 11.40.37 AM.png
+coverY: 0
+---
+
 # Rewards Catalog
 
 A user who has accumulated STADX tokens from drops, loyalty programs, GamePass or EventPass rewards can use those tokens to buy featured NFT from the StadiaX rewards catalog.
