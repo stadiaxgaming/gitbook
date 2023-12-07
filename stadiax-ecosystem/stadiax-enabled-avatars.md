@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Screenshot 2023-12-07 at 11.42.00 AM.png
+coverY: 0
+---
+
 # StadiaX Enabled Avatars
 
 Participating StadiaX Games may allow players to use an Avatar contained in NFTs in their wallets as their in-game Avatar. The StadiaX platform will allow the Game Developers to designate which avatars from which partner collections are supported by the game and can be used by players. The StadiaX SDK will provide the functions and services needed to manage, edit, and utilize Avatars in-game. In-game representation of the NFT Avatars may vary as required by the game performance requirements.
