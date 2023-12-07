@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/StadiaX.png
+cover: .gitbook/assets/Group 60.png
 coverY: 0
 layout:
   cover:
