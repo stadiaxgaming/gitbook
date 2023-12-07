@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Whitepaper-bnr-2.png
+cover: .gitbook/assets/Group 60.png
 coverY: 0
 layout:
   cover:
