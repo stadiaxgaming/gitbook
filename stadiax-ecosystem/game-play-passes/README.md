@@ -1,10 +1,10 @@
 ---
-cover: ../../.gitbook/assets/gamepass HL 2.jpg
-coverY: 1129.3973509933774
+cover: ../../.gitbook/assets/Screenshot 2023-12-07 at 11.31.05 AM.png
+coverY: 0
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
