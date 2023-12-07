@@ -1,4 +1,4 @@
-# Team
+# Solid Team
 
 The StadiaX leadership team is an amalgamation of seasoned professionals, each with a rich background in the tech industry, particularly in Web3 and gaming. With a collective experience spanning several decades, they bring a robust mix of skills in software engineering, platform development, and scaling businesses. This expertise extends from launching startups to navigating the complexities of public companies, demonstrating a remarkable ability to turn innovative concepts into successful ventures.
 

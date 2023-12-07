@@ -1,8 +1,23 @@
 ---
-description: A Distributed Web3 Win-to-Earn Gaming Platform
+cover: .gitbook/assets/Group 62 (1).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# Summary
+# The Details
 
 StadiaX is a web3 gaming platform that provides users with a new and unique way of engaging with gaming experiences as a whole. At its core, StadiaX allows users to access a variety of Games and time-limited/tournament-style events in which they can play and compete in to earn rankings and rewards. Open Games (available to non-members) can be played at any time, by anyone, with a corresponding GamePass or sufficient STADX tokens. Whereas each Game Event runs during a prescribed period, for a limited number of participants, and requires a corresponding EventPass to participate. Participants have a chance at winning the prize available from that Game Event. Prizes can be cryptocurrency tokens, NFTs, or other web3 content.
 

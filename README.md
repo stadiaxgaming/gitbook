@@ -31,7 +31,4 @@ Get ready for an electrifying journey into the future of gaming with StadiaX, a 
 
 StadiaX isn't just a gaming platform; it's a universe where gaming meets innovation, community, and endless fun. For players and developers alike, the future of gaming starts here! 🎮💥🌐
 
-\
-
-
 By Dan Wasyluk, Ahmad Sghaier, and Fulvio Ciano Ver 1.0
