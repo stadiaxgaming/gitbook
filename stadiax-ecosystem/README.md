@@ -1,6 +1,6 @@
 ---
 description: Elevated Web3 Gaming
-cover: ../.gitbook/assets/Gamer Ecosytem.jpg
+cover: ../.gitbook/assets/developer.jpg
 coverY: 0
 ---
 
