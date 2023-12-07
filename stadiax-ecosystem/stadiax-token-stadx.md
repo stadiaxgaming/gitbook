@@ -1,5 +1,7 @@
 ---
 description: Powerhouse of the Ecosystem
+cover: ../.gitbook/assets/coin_wide_00004.png
+coverY: 0
 ---
 
 # StadiaX Token (STADX)

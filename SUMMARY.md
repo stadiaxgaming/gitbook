@@ -7,6 +7,7 @@
   * [Our Position](stadiax-background/our-position.md)
   * [The Opportunity](stadiax-background/the-opportunity.md)
 * [Growing Ecosystem](stadiax-ecosystem/README.md)
+  * [Technology Stack](growing-ecosystem/technology-stack.md)
   * [StadiaX Token (STADX)](stadiax-ecosystem/stadiax-token-stadx.md)
   * [APIs and SDKs](growing-ecosystem/apis-and-sdks.md)
   * [Game Play Passes](stadiax-ecosystem/game-play-passes/README.md)
