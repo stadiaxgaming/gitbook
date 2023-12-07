@@ -1,6 +1,6 @@
 ---
 description: A Distributed Web3 Win-to-Earn Gaming Platform
-cover: .gitbook/assets/stadiax header.jpg
+cover: .gitbook/assets/Whitepaper-bnr-2.png
 coverY: 0
 layout:
   cover:
