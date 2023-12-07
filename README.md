@@ -23,7 +23,7 @@ layout:
 Get ready for an electrifying journey into the future of gaming with StadiaX, a cutting-edge web3 platform! Designed for the digital age, StadiaX revolutionizes how we play, compete, and enjoy games. Here's the scoop:
 
 1. **Games Galore**: Dive into a world of diverse games! Whether you're a casual player or a competitive gamer, StadiaX has something for everyone. Choose from open games available to all or exclusive tournament-style events with tantalizing prizes.
-2. **Earn as You Play**: Compete in thrilling events to climb the ranks and snag cool rewards. From cryptocurrencies to unique web3 content, the prizes are as diverse as the games themselves!
+2. **Play and Earn**: Compete in thrilling events to climb the ranks and snag cool rewards. From cryptocurrencies to unique web3 content, the prizes are as diverse as the games themselves!
 3. **Developer's Dreamland**: Game creators, rejoice! StadiaX offers a hassle-free platform to showcase your games, sans the complexities of blockchain tech. Focus on creating immersive experiences while StadiaX handles the rest, including financial support and exposure to a passionate community.
 4. **Token Magic**: Players, get your STADX tokens ready! Use them for spontaneous game sessions or grab a GamePass for endless fun. Members can join exclusive events and enjoy perks like discounted rates and special rewards.
 5. **Trade and Triumph**: Flex your strategic muscles by trading STADX tokens, GamePasses, EventPasses, and Memberships. Whether you're a player or developer, the trading game adds an extra layer of excitement.
