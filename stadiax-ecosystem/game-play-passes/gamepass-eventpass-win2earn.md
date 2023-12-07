@@ -15,7 +15,7 @@ The EventPasses from previous game events can still be held and used for increas
 Every game deployed on StadiaX has a corresponding smart contract for managing the related asset distribution functions in a decentralized manner. Game prize pools on StadiaX are powered by a technology called Proof of Prize, whereby assets that are held as prizes for the winners of game contests can always be publicly verified on the blockchain. This is done through the deployment of a smart contract, which acts as a custodian for the game’s prize pool. This pool of assets is guaranteed to be paid out to the winners of the game based on the score data embedded on the blockchain within their GamePass/EventPass. There is an emergency multisig withdrawal mechanism to enable platform operators to withdraw funds in the case of error or other critical situations.\
 
 
-![](https://lh7-us.googleusercontent.com/sAoZbLvcW3Y1cv2sIWysCZ2waPhF3ophzExC3qHek8bD53h01DC-ETswErpfgfBCt0cO44kzGXiGbmj5-8HcC6KEs8e2ElYZOO4ZBvWzuxmjLwIHNRZfLGOz58fYbJkCj-ijohPcmkfMrmUfx4KQ)\
+![](<../../.gitbook/assets/Proof of Prize.jpg>)\
 Diagram 1 - Proof of Prize\
 
 
@@ -29,7 +29,7 @@ When the doPayout() function is called on the smart contract backing a specific 
 2. Identify the token containing the winning score(s) based on the game’s payout configuration, and in turn, identify the wallet that owns those winning GamePass/EventPass NFT tokens.
 3. Initiate a series of transactions on the blockchain distributing the prize pool being held in custody through Proof of Prize to the winning wallets in accordance with the payout configuration for that game (ie: 100% of the pool to 1st place, or 70% to 1st, 30% to 2nd, 20% to third, etc.).
 
-![](https://lh7-us.googleusercontent.com/xMErTAGuKWCPpdp51tH\_Nna5LH7R9Em6H0QVTlvmTZoCWhq4E74cJQQkXsKm4KipNzNSLwa7q7tS2DGSlb3K9hMbRwxXQijgBJg\_DKFoaGtgTKm30STMmRZ8IZj1W6IS4Tvuhf5euxqCw5ehpUyG)\
+![](<../../.gitbook/assets/Proof of Payout.jpg>)\
 Diagram 2 - Proof of Payout
 
 \
