@@ -1,6 +1,6 @@
 ---
 description: Powerhouse of the Ecosystem
-cover: ../.gitbook/assets/coin_wide_00004.png
+cover: ../.gitbook/assets/Screenshot 2023-12-07 at 11.32.55 AM.png
 coverY: 0
 ---
 
