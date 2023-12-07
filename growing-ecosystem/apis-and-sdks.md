@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/developer.jpg
-coverY: 6
+cover: ../.gitbook/assets/Screenshot 2023-12-07 at 11.34.30 AM.png
+coverY: 0
 ---
 
 # APIs and SDKs
