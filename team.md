@@ -1,6 +1,6 @@
 ---
 description: Where The Magic Happens!
-cover: .gitbook/assets/Group 69.png
+cover: .gitbook/assets/Frame 701 (4).png
 coverY: 0
 ---
 
