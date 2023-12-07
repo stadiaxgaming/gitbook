@@ -28,6 +28,6 @@
   * [Membership Supply Distribution](tokenomics/membership-supply-distribution.md)
   * [GamePass and EventPass Revenue Distributions](tokenomics/gamepass-and-eventpass-revenue-distributions.md)
   * [Circulation and Inflation Projections](tokenomics/circulation-and-inflation-projections.md)
-* [Solid Team](team.md)
+* [Team](team.md)
 * [Partners](partners.md)
 * [Disclaimer](disclaimer.md)
