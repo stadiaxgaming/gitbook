@@ -1,10 +1,5 @@
 ---
-cover: .gitbook/assets/Group 62 (1).png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
