@@ -1,7 +1,7 @@
 ---
 description: Powerhouse of the Ecosystem
 cover: ../.gitbook/assets/Screenshot 2023-12-07 at 12.26.23 PM.png
-coverY: 0
+coverY: 170.61705426356588
 ---
 
 # StadiaX Token (STADX)
