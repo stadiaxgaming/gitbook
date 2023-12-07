@@ -1,5 +1,4 @@
 ---
-description: Where The Magic Happens!
 cover: .gitbook/assets/Frame 701 (4).png
 coverY: 0
 ---

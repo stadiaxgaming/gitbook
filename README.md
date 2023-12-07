@@ -1,5 +1,6 @@
 ---
-cover: .gitbook/assets/Whitepaper-bnr 2.png
+description: A Distributed Web3 Win-to-Earn Gaming Platform
+cover: .gitbook/assets/stadiax header.jpg
 coverY: 0
 layout:
   cover:
@@ -32,3 +33,9 @@ Get ready for an electrifying journey into the future of gaming with StadiaX, a 
 StadiaX isn't just a gaming platform; it's a universe where gaming meets innovation, community, and endless fun. For players and developers alike, the future of gaming starts here! 🎮💥🌐
 
 By Dan Wasyluk, Ahmad Sghaier, and Fulvio Ciano Ver 1.0
+
+<div align="left" data-full-width="false">
+
+<figure><img src=".gitbook/assets/Group_58-removebg-preview (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
