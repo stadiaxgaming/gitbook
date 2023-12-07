@@ -1,5 +1,10 @@
 ---
+cover: .gitbook/assets/Whitepaper-bnr.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -21,3 +26,4 @@ StadiaX provides game developers with a platform and ecosystem to publish, revie
 The ways in which users access games make the platform even more motivating and unique for players and game developers. Players can utilize STADX tokens to play Open Games ad hoc or purchase GamePasses to play games more economically. Members can purchase EventPasses to participate in tournament-style versions of games structured to prevent abuse and ensure fair play while providing the opportunity for players to win prize pools of STADX tokens and other Crypto rewards based on their performance. Users purchasing Memberships can participate in Open Games for free or at a discounted rate depending on the membership level. Members also have access to exclusive loyalty and platform participation rewards. Any user can buy or sell STADX tokens, GamePasses, EventPasses or Memberships they acquire on third-party marketplaces based on their requirements. STADX tokens, Memberships, GamePasses, and EventPasses can all be resold by players or game developers.
 
 Users can acquire additional STADX tokens through minting and “reward holding” a StadiaX membership NFT along with one or more GamePass or EventPass NFTs or other StadiaX-mint-enable NFTs as determined by the StadiaX Project Contributors or community. Users who participate in loyalty rewards programs with their StadiaX membership will earn STADX tokens on a daily basis, and these can be used for additional gameplays or other STADX token-enabled web3 experiences on third-party platforms.
+
