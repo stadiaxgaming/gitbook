@@ -16,7 +16,7 @@ The StadiaX ecosystem represents a unique and elevated Web3 gaming experience, c
 
 [Rewards Program](rewards-program/)
 
-[Rewards Catalog](../growing-ecosystem/rewards-catalogue.md)
+[Rewards Catalog](rewards-catalog.md)
 
 [StadiaX Enable Avatars](stadiax-enabled-avatars.md)
 
