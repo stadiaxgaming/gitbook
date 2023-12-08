@@ -1,6 +1,5 @@
 ---
-description: Stadia X Web3 Gaming Corporation
-cover: .gitbook/assets/test7.jpg
+cover: .gitbook/assets/Group 61 (2).png
 coverY: 0
 layout:
   cover:
