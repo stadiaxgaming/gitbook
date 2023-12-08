@@ -6,9 +6,9 @@ The revenue from minting EventPasses is allocated to the designated Prize Pool S
 
 The Event Structure determines the maximum number of EventPasses that will be minted (and potentially utilized) and the structure of advancement and elimination from each round according to the performance of each EventPass holder for each round for each Game Event. A holder using two EventPasses acts as two players and cannot pool scores or performance across EventPasses.
 
-The EventPass NFT will automatically issue the holder a certain amount of STADX tokens at the beginning of each Event Round (which amounts would change over time as the project roadmap develops), which may be spent on gameplay in a round of a Game Event.
+The EventPass NFT will automatically issue the holder a certain amount of STADX Tokens at the beginning of each Event Round (which amounts would change over time as the project roadmap develops), which may be spent on gameplay in a round of a Game Event.
 
-The STADX tokens utilized for each gameplay additionally contribute in a designated ratio to the prize pool total as the event rounds progress. The longer the Game Event lasts, the larger the pool of STADX tokens available to be won.
+The STADX Tokens utilized for each gameplay additionally contribute in a designated ratio to the prize pool total as the event rounds progress. The longer the Game Event lasts, the larger the pool of STADX Tokens available to be won.
 
 EventPass prize pools are governed by smart contracts in the same way as GamePass prize pools. Creating the same transparency and auditability for EventPasses as exists for GamePasses.
 

@@ -16,4 +16,4 @@ Prizes (as designated by the StadiaX platform) will be awarded periodically to G
 
 Prize pools are governed by smart contracts enabling transparency around the amount to be earned and the proof that rewards have been paid out to winners. Because GamePasses act as proxies for user scores, the entire payout process can be fully audited by third parties using blockchain data to validate that the prize pool has been paid out as publicly communicated.
 
-The STADX tokens utilized for game plays additionally contribute (in a designated ratio) to the prize pool total of a designated period. Free gameplays from GamePass holders do not contribute STADX tokens (since STADX tokens are not spent for these pass holders) to the period prize pool for that game.
+The STADX Tokens utilized for game plays additionally contribute (in a designated ratio) to the prize pool total of a designated period. Free gameplays from GamePass holders do not contribute STADX tokens (since STADX Tokens are not spent for these pass holders) to the period prize pool for that game.
