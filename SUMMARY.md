@@ -18,7 +18,7 @@
   * [Rewards Program](stadiax-ecosystem/rewards-program/README.md)
     * [Alpha Members - Beta Testing Program](stadiax-ecosystem/rewards-program/alpha-members-beta-testing-program.md)
     * [Loyalty Rewards for Holding](stadiax-ecosystem/rewards-program/loyalty-rewards-for-holding.md)
-  * [Rewards Catalog](stadiax-ecosystem/rewards-catalog.md)
+  * [Rewards Catalogue](growing-ecosystem/rewards-catalogue.md)
   * [StadiaX Enabled Avatars](stadiax-ecosystem/stadiax-enabled-avatars.md)
   * [Platform DAO Governance](stadiax-ecosystem/platform-dao-governance.md)
 * [Tokenomics](tokenomics/README.md)
