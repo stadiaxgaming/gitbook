@@ -14,7 +14,7 @@
     * [GamePass NFT](stadiax-ecosystem/game-play-passes/gamepass-nft.md)
     * [EventPass NFT](stadiax-ecosystem/game-play-passes/eventpass-nft.md)
     * [GamePass/EventPass Resale](stadiax-ecosystem/game-play-passes/gamepass-eventpass-resale.md)
-    * [GamePass/EventPass Win2Earn](stadiax-ecosystem/game-play-passes/gamepass-eventpass-win2earn.md)
+    * [GamePass/EventPass Play to Earn](growing-ecosystem/game-play-passes/gamepass-eventpass-play-to-earn.md)
   * [Rewards Program](stadiax-ecosystem/rewards-program/README.md)
     * [Alpha Members - Beta Testing Program](stadiax-ecosystem/rewards-program/alpha-members-beta-testing-program.md)
     * [Loyalty Rewards for Holding](stadiax-ecosystem/rewards-program/loyalty-rewards-for-holding.md)

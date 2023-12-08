@@ -1,6 +1,6 @@
-# GamePass/EventPass Win2Earn
+# GamePass/EventPass Play to Earn
 
-A user who’s minted an EventPass automatically earns an allocation of StadiaX (STADX) tokens large enough for X attempts at setting a qualifying high score to progress to the next round. For example, each gameplay may cost 50 STADX to play and an EventPass may come with 150 STADX. Most games will go for 3 rounds, with the top 10% of scoring players advancing from round to round. The user pays 50 STADX to play the game and sets a high score on their first try. They have the option to save this score to their EventPass or discard it. Because saving a score to an EventPass (on a blockchain) costs ETH gas, this is an operation the user must choose to do based on the score and if it qualifies, etc.
+A user who has minted an EventPass automatically earns an allocation of StadiaX (STADX) Tokens large enough for "X" attempts at setting a qualifying high score to progress to the next round. For example, each gameplay may cost 50 STADX to play and an EventPass may come with 150 STADX. Most games will go for 3 rounds, with the top 10% of scoring players advancing from round to round. The user pays 50 STADX to play the game and sets a high score on their first try. They have the option to save this score to their EventPass or discard it. Because saving a score to an EventPass (on a blockchain) costs ETH gas, this is an operation the user must choose to do based on the score and if it qualifies, etc.
 
 After achieving a qualifying high score, the user waits for the round to end. If their EventPass is knocked out of the top 10% they will receive a notification through EPNS and email. If knocked out, the user has the chance to pay to play again within the current round and attempt to set a higher score, etc.
 
@@ -8,7 +8,7 @@ In this case, the first score set is not beaten, and the user advances to round 
 
 The user survives round 2 and advances to the final round, round 3. Round 3 introduces the most challenging game mechanics and a fresh 3 free plays of the game (+150 STADX). During any of the rounds, the user has the option to vote to end the game early. If 75%+ of qualifying active users vote to end the game early, the game ends, and the prize is distributed to all remaining players equally. In this example, the users decide to play the game out to the end. In this case, the user in the #1 position at the close of round 3 wins the prize. Because the user was in the #1 position, the 10E locked in the contract is paid out to the wallet address owning the EventPass with the highest score, and the game concludes.
 
-The EventPasses from previous game events can still be held and used for increased rewards from reward holding.
+The EventPasses from previous Game Events can still be held and used for increased rewards from reward holding.
 
 **Proof of Prize**
 
