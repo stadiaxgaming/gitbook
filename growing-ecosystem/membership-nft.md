@@ -22,9 +22,5 @@ Revenue from membership sales will be utilized to finance the platform developme
 
 **Membership Tiers Benefits**
 
-| Tiers (3) | Airdrop Enabled | Reward Program Enabled | Private Sale Allowlist Entry | Early Game Access | GamePass Drop | Loyalty Program Seniority Bonus | Voting Rights | Beta Testing Reward Participation |
-| --------- | --------------- | ---------------------- | ---------------------------- | ----------------- | ------------- | ------------------------------- | ------------- | --------------------------------- |
-| α - Alpha | YES             | YES                    | YES                          | YES               | YES           | YES                             | FULL          | YES                               |
-| β - Beta  | YES             | YES                    | YES                          | YES               | YES           | YES                             | SOME          | NO                                |
-| γ - Gamma | YES             | YES                    | YES                          | NO                | NO            | NO                              | NO            | NO                                |
+<table data-header-hidden><thead><tr><th width="131"></th><th width="95"></th><th width="98"></th><th width="95"></th><th width="85"></th><th width="113"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>Tiers (3)</td><td>Airdrop Enabled</td><td>Reward Program Enabled</td><td>Private Sale Allowlist Entry</td><td>Early Game Access</td><td>GamePass Drop</td><td>Loyalty Program Seniority Bonus</td><td>Voting Rights</td><td>Beta Testing Reward Participation</td></tr><tr><td>α - Alpha</td><td>YES</td><td>YES</td><td>YES</td><td>YES</td><td>YES</td><td>YES</td><td>FULL</td><td>YES</td></tr><tr><td>β - Beta</td><td>YES</td><td>YES</td><td>YES</td><td>YES</td><td>YES</td><td>YES</td><td>SOME</td><td>NO</td></tr><tr><td>γ - Gamma</td><td>YES</td><td>YES</td><td>YES</td><td>NO</td><td>NO</td><td>NO</td><td>NO</td><td>NO</td></tr></tbody></table>
 
