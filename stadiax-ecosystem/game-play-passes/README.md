@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/Screenshot 2023-12-07 at 11.31.05 AM.png
+cover: ../../.gitbook/assets/Frame 701 (4).png
 coverY: 0
 layout:
   cover:

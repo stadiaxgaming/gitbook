@@ -10,6 +10,7 @@
   * [Technology Stack](growing-ecosystem/technology-stack.md)
   * [StadiaX Token (STADX)](stadiax-ecosystem/stadiax-token-stadx.md)
   * [APIs and SDKs](growing-ecosystem/apis-and-sdks.md)
+  * [Membership NFT](growing-ecosystem/membership-nft.md)
   * [Game Play Passes](stadiax-ecosystem/game-play-passes/README.md)
     * [GamePass NFT](stadiax-ecosystem/game-play-passes/gamepass-nft.md)
     * [EventPass NFT](stadiax-ecosystem/game-play-passes/eventpass-nft.md)
