@@ -36,6 +36,4 @@ Currently, our prelaunch partners include:
 * Twisted Frame
 * Ascension Forge Studios
 * 126 Studios
-
-
-
+* Yeti Farm Creative
