@@ -8,7 +8,9 @@ coverY: 0
 
 StadiaX Memberships NFTs are divided into three tiers: alpha, beta, and gamma. These NFTs enable the holders to receive special benefits which include airdrops, access to discounts, inclusion in the “Allowlist”, and permit the owners to hold other NFTs earning additional StadiaX (STADX) Tokens.
 
-The different tiers of membership have varying costs and corresponding levels of benefits. The Alpha tier is the highest and most expensive tier. Alpha memberships will be sold first and will have the lowest total fixed supply, making them also the most exclusive and rare. Beta memberships will have the next highest price and be sold second and will have the larger fixed supply, making them also exclusive but less rare. Both Alpha and Beta membership supply will never be expanded and therefore would become more scarce as new users would need to acquire them from existing holders for their preferred benefits.
+The different tiers of membership have varying costs and corresponding levels of benefits. The Alpha tier is the highest and most expensive tier. Alpha memberships will be sold first and will have the lowest total fixed supply, making them also the most exclusive and rare.&#x20;
+
+Beta memberships will have the next highest price and be sold second and will have the larger fixed supply, making them also exclusive but less rare. Both Alpha and Beta membership supply will never be expanded and therefore would become more scarce as new users would need to acquire them from existing holders for their preferred benefits.
 
 Gamma membership supply will be increased seasonally to accommodate increased demand for more memberships, sustainably.
 
