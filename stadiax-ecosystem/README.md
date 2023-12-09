@@ -1,6 +1,6 @@
 ---
 description: Elevated Web3 Gaming
-cover: ../.gitbook/assets/Frame 701 (3).png
+cover: ../.gitbook/assets/Frame 704.png
 coverY: 0
 ---
 
